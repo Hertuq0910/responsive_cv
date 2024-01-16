@@ -1,2 +1,2 @@
-# responsive_cv
-Portafolio responsive
+# portafolio-responsive
+New CV responsive.
